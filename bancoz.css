@@ -1,0 +1,32 @@
+*{
+ border-right: 1%;
+}
+header{
+    background-color: aqua;
+    height: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+}
+.logo{
+    width: 20%;
+    height: 80%;
+}
+.barra{
+    background-color: aqua;
+    border: solid;
+    justify-content: flex-start;
+    height: 80px;
+}
+
+ul{
+
+    padding-top: 1.5%;
+}
+.barra1{
+    margin-left: 7%;
+    margin-right: 7%;
+    text-align: center;
+    text-decoration: none;

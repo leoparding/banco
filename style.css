@@ -1,0 +1,87 @@
+#titulo{
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+
+}
+h1{
+    text-align: center;
+    padding: 30px;
+    border: red 10px solid;
+    border-color: rgb(5, 111, 129);
+    background-color: greenyellow;
+
+}
+.lil{
+
+    display: inline;
+}
+#barranav{
+    padding: 50px;
+    background-color: greenyellow;
+    text-align: center;
+    
+}
+.lila{
+    display: inline;
+    margin-left: 90px;
+    margin-right: 70px;
+}
+/* divs */ 
+div{
+    gap: 30px;
+}
+.hola{
+    border: 4px solid;
+    border-color: greenyellow;
+    border-radius: 15px;
+}
+.divs{
+    display: flex;
+    width:0 auto;
+}
+.img{
+    width: 100px;
+    top: 15px;
+    display: block;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+footer{
+    padding: 10px;
+    background-color: rgb(99, 214, 46);
+    margin-top: 1rem;
+    text-align: center;
+}
+#lateral{
+    float:left;
+    width: 20%;
+    height: 380px;
+    background:greenyellow;
+    margin-right: 10px;
+    border-radius: 15px;
+    border: 2px solid;
+    border-color: rgb(5, 111, 129);
+}
+.tituloformu{
+    text-align: center;
+}
+#boton{
+    width: 90px;
+    background-color:rgb(5, 111, 129);
+    padding: 10px;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: -85px;
+    border-radius: 10px;
+    
+}
+/* parrafo*/
+p{
+    margin: 2px 20px 20px;
+}
+.encuentranos{
+    width: 30px;
+}
+
